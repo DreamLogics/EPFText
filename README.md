@@ -11,6 +11,4 @@ Requires:
 
 ### TODO
 
--Add convience functions for (en/de)-coding which append the size and header.  
--Add proper threaded encoding and decoding support.  
--Add support for (en/de)-coding via QIODevices.  
+-Add word breaking.

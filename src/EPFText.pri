@@ -15,4 +15,4 @@ HEADERS +=\
     $$PWD/paragraphprivate.h \
     $$PWD/textnodeprivate.h
 
-LIBS += -lpugixml
+LIBS += -lpugixml -lQOPS

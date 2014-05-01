@@ -26,6 +26,7 @@
 #include <QFontMetrics>
 #include "paragraphprivate.h"
 #include "documentprivate.h"
+#include <QOPSLib/qopslib.h>
 
 using namespace EPFText;
 

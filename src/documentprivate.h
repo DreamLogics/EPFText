@@ -26,7 +26,7 @@
 
 #include <QList>
 #include "paragraph.h"
-#include <qopslib.h>
+#include <QOPSLib/qopslib.h>
 #include <QSize>
 
 namespace EPFText

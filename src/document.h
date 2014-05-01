@@ -26,7 +26,7 @@
 
 #include "paragraph.h"
 #include <QRectF>
-#include <qopslib.h>
+#include <QOPSLib/qopslib.h>
 
 #define EPFT_OK 0
 #define EPFT_PARSE_ERROR 1

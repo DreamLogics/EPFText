@@ -11,7 +11,6 @@ TEMPLATE = lib
 
 DEFINES += EPFTEXT_LIBRARY
 
-include(../QOPSLib/src/QOPSLib.pri)
 include(src/EPFText.pri)
 
 unix {
